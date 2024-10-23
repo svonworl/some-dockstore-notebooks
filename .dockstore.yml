@@ -8,6 +8,8 @@ notebooks:
     authors:
       - name: David Steinberg
     publish: True
+    otherFiles:
+      - ./runtime.txt
   - format: JUPYTER
     name: hello-figure-r
     path: /hello-figure-r.ipynb
@@ -17,3 +19,5 @@ notebooks:
     publish: True
     authors:
       - name: David Steinberg
+    otherFiles:
+      - ./runtime.txt
