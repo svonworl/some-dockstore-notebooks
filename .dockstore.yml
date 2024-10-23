@@ -6,4 +6,4 @@ notebooks:
     kernel: R
     topic: Hello world in R
     authors:
-      name: David Steinberg
+      - name: David Steinberg
