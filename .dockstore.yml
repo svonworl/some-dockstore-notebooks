@@ -9,6 +9,7 @@ notebooks:
       - name: David Steinberg
     publish: True
   - format: JUPYTER
+    name: hello-figure-r
     path: /hello-figure-r.ipynb
     language: R
     kernel: R
