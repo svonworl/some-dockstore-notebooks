@@ -1,6 +1,7 @@
 version: 1.2
 notebooks:
-  - path: /hello-world-r.ipynb
+  - format: JUPYTER
+    path: /hello-world-r.ipynb
     language: R
     kernel: R
     topic: Hello world in R
