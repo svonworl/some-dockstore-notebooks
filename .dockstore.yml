@@ -7,3 +7,12 @@ notebooks:
     topic: Hello world in R
     authors:
       - name: David Steinberg
+    publish: True
+  - format: JUPYTER
+    path: /hello-figure-r.ipynb
+    language: R
+    kernel: R
+    topic: Basic R scatter plot
+    publish: True
+    authors:
+      - name: David Steinberg
