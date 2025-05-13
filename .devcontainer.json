@@ -1,12 +1,4 @@
 {
-  "postAttachCommand": "code /workspaces/dockstore-notebooks/hello-figure-r.ipynb",
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "ms-toolsai.jupyter",
-        "ms-python.python",
-        "reditorsupport.r"
-      ]
-    }
-  }
+  "postAttachCommand": "code /workspaces/some-dockstore-notebooks/hello-figure-r.ipynb",
+  "image": "jupyter/r-notebook"
 }
