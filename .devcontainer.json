@@ -1,6 +1,6 @@
 {
   "postAttachCommand": "code /workspaces/dockstore-notebooks/hello-figure-r.ipynb",
-  "image": "jupyter/r-notebook",
+  "image": "jupyter/datascience-notebook",
   "customizations": {
     "vscode": {
       "extensions": [
