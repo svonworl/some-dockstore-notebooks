@@ -3,21 +3,15 @@ notebooks:
   - format: JUPYTER
     path: /hello-world-r.ipynb
     language: R
-    kernel: R
     topic: Hello world in R
     authors:
       - name: David Steinberg
     publish: True
-    otherFiles:
-      - ./runtime.txt
   - format: JUPYTER
     name: hello-figure-r
     path: /hello-figure-r.ipynb
     language: R
-    kernel: R
     topic: Basic R scatter plot
     publish: True
     authors:
       - name: David Steinberg
-    otherFiles:
-      - ./runtime.txt
